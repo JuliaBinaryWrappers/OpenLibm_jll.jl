@@ -2,12 +2,12 @@
 export libopenlibm
 
 JLLWrappers.@generate_wrapper_header("OpenLibm")
-JLLWrappers.@declare_library_product(libopenlibm, "@rpath/libopenlibm.3.dylib")
+JLLWrappers.@declare_library_product(libopenlibm, "@rpath/libopenlibm.4.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libopenlibm,
-        "lib/libopenlibm.3.0.dylib",
+        "lib/libopenlibm.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
