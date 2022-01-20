@@ -1,143 +1,143 @@
 [[OpenLibm]]
 arch = "aarch64"
-git-tree-sha1 = "89647ed99cd16ac78a4fe7bc8c32a645335bb1ee"
+git-tree-sha1 = "7f30d493b365896443b8d8b1aeff21dcb7de3039"
 os = "macos"
 
     [[OpenLibm.download]]
-    sha256 = "c28ba1323a5f869c49929b65fdda4f47c61c1cea9b5accfd309b91cea353af55"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "ec302e7590acac7b3e987f2257ecfdde0efe691326a62812b6a88b53a6a296c3"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.aarch64-apple-darwin.tar.gz"
 [[OpenLibm]]
 arch = "aarch64"
-git-tree-sha1 = "5cf494bfd0bede3d359408db2d8ea5cf4a5cd9e1"
+git-tree-sha1 = "74d4e60364ec203aa5eaeae20c08815a8de83981"
 libc = "glibc"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "b503233baf1ac3e70bc43ce2d2e60d6fb4ea96090d7e4221299f5c24a3cc3590"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "1992ec41cb92de96a2d5d0d83af2935c07185579ccf2115b457adc1f332ae2af"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.aarch64-linux-gnu.tar.gz"
 [[OpenLibm]]
 arch = "aarch64"
-git-tree-sha1 = "33e3d6070600f91d1cb1a0630e4c0ffac4542ba2"
+git-tree-sha1 = "9b6c6f3fe38bfe03e2de6a1f592574b76a489b95"
 libc = "musl"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "0336913afcb2a1faa65269dcaf7e78bebb80635cfb78f8b3d054dff795658798"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.aarch64-linux-musl.tar.gz"
+    sha256 = "eb74d8868b3c41e7af715f874fd20f2df930f794818a471da414c6710e4d4a7d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.aarch64-linux-musl.tar.gz"
 [[OpenLibm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ce19868a2a4b3ba52061f14ae4732235bd2a93ff"
+git-tree-sha1 = "a7e3aa4e6d9b75c632263fc9417de9cf430ec546"
 libc = "glibc"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "92adc2f397976dad66ebf4b4a2237b900af22f9e69e013417253e60b9c3a533e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "04fa44dd7a45f4a71eafa1ab247c28153c1ab8b0a770e6632b75536940d97694"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.armv6l-linux-gnueabihf.tar.gz"
 [[OpenLibm]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d49584caea19d60ec11a2a1ba6c2c7aeb0a3d978"
+git-tree-sha1 = "79a7186408a87888c23f3ab53e613a7068bae3e1"
 libc = "musl"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "6f0145ffa291e08cb7419593aa7adf6eb51d8a4af001fc351f587d90c51e9b8b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4ec65c962b834ca74c62b5491744b004b6b8e7bdcfb641feb600e3283e4c8fa6"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.armv6l-linux-musleabihf.tar.gz"
 [[OpenLibm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f19a18a4041bd9d44f327ab8386034b94e07cbe5"
+git-tree-sha1 = "790b34a1c964c16b5dafb033094baa826f52ffcd"
 libc = "glibc"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "6346bac51a6626514c3ab40fb8cb116529f7ada6487bc648e70eb32913379226"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "2647816dc17c0966870b3242fef20c0445622ad6d364a7a1197f8e97d10b1100"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.armv7l-linux-gnueabihf.tar.gz"
 [[OpenLibm]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a18b63cb00fdec8476a189abc47d33d9bb51ec4b"
+git-tree-sha1 = "840ce571ccda7010f42aca228f4ca56b6b6a480a"
 libc = "musl"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "b9eb16541faa24667797792ebe1c59248f678c2a1e9f1105189d4b8dfaea353d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8998e9bcbf4e6ea2e39dfeb912fe1b93bf11fe086cd9bb89ef34180af7bbefa9"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.armv7l-linux-musleabihf.tar.gz"
 [[OpenLibm]]
 arch = "i686"
-git-tree-sha1 = "dfb0291e7dbc0e5ab9fc42863ccd9a887b3e71a4"
+git-tree-sha1 = "3f64e9eb455ab38b8c029bcf97d7d3f4de95fcf5"
 libc = "glibc"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "ead820f136b7a42799a6032d628c942ce8689f51322674a25ea10771a4b10845"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.i686-linux-gnu.tar.gz"
+    sha256 = "e57e6136ad27f42b6e0d8ccde5474ce8a5481f4733f327a46d88ce1c6258195e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.i686-linux-gnu.tar.gz"
 [[OpenLibm]]
 arch = "i686"
-git-tree-sha1 = "e27f38f44a405cb3815f232537ec49edb462a35b"
+git-tree-sha1 = "482fa32f6e8fd653ed2dcd094114ac74698db669"
 libc = "musl"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "b38218b25c4e2b3612e19a1cf286690ccc591b17ef1e6651cb070520ae212c0d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.i686-linux-musl.tar.gz"
+    sha256 = "585c15ef0e5e30f788daaa92246dda86f0dcd99e0e5ef9863dc88c4d6a10062c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.i686-linux-musl.tar.gz"
 [[OpenLibm]]
 arch = "i686"
-git-tree-sha1 = "907fa736f69ba7f70460ad0b7a537be85cddb71c"
+git-tree-sha1 = "1f00b86bf47c80787ac540eef105f049d593b4ce"
 os = "windows"
 
     [[OpenLibm.download]]
-    sha256 = "288c400be3b9069da25131aeeacc567c952ea4370576f3cc2a802e2fbf68c713"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.i686-w64-mingw32.tar.gz"
+    sha256 = "69df30262452d5b153e2b8e10fd561f99626ff97e36fbb54014a5c7213ea50f7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.i686-w64-mingw32.tar.gz"
 [[OpenLibm]]
 arch = "powerpc64le"
-git-tree-sha1 = "82401dad749931d9eaabde4410fe69fe7151c74b"
+git-tree-sha1 = "3000d064eba7acfc74f22fc967dc947136900d68"
 libc = "glibc"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "e875e152a5e180d2b4c3a6744ac7a1963a91f2ed23733af588d802182c7894ac"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6793b665a8507439da0ffa6d953c7c33a6d8121ff8fc660e88676ab94c12ba5f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.powerpc64le-linux-gnu.tar.gz"
 [[OpenLibm]]
 arch = "x86_64"
-git-tree-sha1 = "43529ce141776a520d86711d9207e2f3c9638240"
+git-tree-sha1 = "9c210e31d81172ed16e57db965fe462e1e597b8a"
 os = "macos"
 
     [[OpenLibm.download]]
-    sha256 = "553d7d75ba483c24923e09fa01c08f6d3544a6a393cae6e72c19eff9f41cb678"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "4480084681c35b37c361f29e2bc67a708fc12ee93eb9bc2df0e664a83d178a7e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.x86_64-apple-darwin.tar.gz"
 [[OpenLibm]]
 arch = "x86_64"
-git-tree-sha1 = "0771048a09897bcdb2f8a829a8d8f5d38cfa0144"
+git-tree-sha1 = "48c665ab9ddc5f074a5149992a302954296ea993"
 libc = "glibc"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "40b6303e6c7b918246e32a4a65af543d342777ba1f17128899bde9b64e928a81"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "dbc558bcfc0c12a8e17a7593bc7bed86c0f868c9049d87eb7afd72df8463ac9f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.x86_64-linux-gnu.tar.gz"
 [[OpenLibm]]
 arch = "x86_64"
-git-tree-sha1 = "02e6736e0648ad19aecb041062ce1c34f9dbe6e6"
+git-tree-sha1 = "3d1516cdd85dec696185e78ccd546e7724743932"
 libc = "musl"
 os = "linux"
 
     [[OpenLibm.download]]
-    sha256 = "dc2b8b46d306c6b7ff8982a003df43c0df248173ac3dd7e952f17f4eded71ec7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.x86_64-linux-musl.tar.gz"
+    sha256 = "846ad60c7e43fbb12053a7b9699032fccf888ecaddc88af21d59ad7a25ba8459"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.x86_64-linux-musl.tar.gz"
 [[OpenLibm]]
 arch = "x86_64"
-git-tree-sha1 = "fae008048989656b9071b9a242b7170821f76fc9"
+git-tree-sha1 = "a686221ae4b11a218b76cb55266de0fe07d2bdca"
 os = "freebsd"
 
     [[OpenLibm.download]]
-    sha256 = "709ce4cf7f99cb328e2384c844fc550d806c12c9b5c2e5f5c1b2004ca8153291"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "461030b30e6afddb3c78f1249f03a247221fb14e09536d1ea1e071c6c0d69526"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.x86_64-unknown-freebsd.tar.gz"
 [[OpenLibm]]
 arch = "x86_64"
-git-tree-sha1 = "85bde5ba84b80689581f62aebd82682d13fc6566"
+git-tree-sha1 = "189f1b1f2d7a4b5c548ca825d039f04f83080a7c"
 os = "windows"
 
     [[OpenLibm.download]]
-    sha256 = "132b0cd7458780c764192469f2ec19186f8bf645d2e2da4b5195a6d4bc1766a7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.0+0/OpenLibm.v0.8.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "a66e6b2e07d54c34a704c6df1a2fab6b28a6a23f6c613e42307a0aeca8f9d94a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenLibm_jll.jl/releases/download/OpenLibm-v0.8.1+0/OpenLibm.v0.8.1.x86_64-w64-mingw32.tar.gz"
